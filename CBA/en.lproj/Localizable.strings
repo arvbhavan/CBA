@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  CBA
+
+  Created by Aravind R on 19/09/21.
+  
+*/
+
+// Transaction List Screen
+
+"account.details.title" = "Account Details";
+"account.details.back.button" = "Back";
+
+"available.funds.title" = "Available funds";
+"account.balance.title" = "Account balance";
+
+"transaction.loading.title" = "Loading...";
+"transaction.service.error" = "Something went wrong. Please try again later";
